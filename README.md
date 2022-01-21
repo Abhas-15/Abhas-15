@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://wallpapercave.com/wp/wp2234604.jpg" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Abhas</h1>
-<h3 align="center">Welcome to my world of develpoment</h3>
+<h3 align="center">Welcome to my world of development</h3>
 
 
 ## 🙋‍♂️ About Me
